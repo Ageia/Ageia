@@ -11,8 +11,8 @@
 ---
 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/Blog-ff4a2a?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/dasoong15)
+[![LinkedIn](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)]([https://linkedin.com/](https://www.artstation.com/ageia))
 [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
 
 ---
