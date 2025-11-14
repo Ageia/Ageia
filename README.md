@@ -26,3 +26,4 @@
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-00A2E8?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-FF6319?style=for-the-badge&logo=pixologic&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF4500?style=for-the-badge&logo=substance&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
