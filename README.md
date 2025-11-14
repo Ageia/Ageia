@@ -13,7 +13,7 @@
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=notion&logoColor=white)](#)
+[![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
 
 ---
 
