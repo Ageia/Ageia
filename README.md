@@ -12,6 +12,6 @@
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/Blog-ff4a2a?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/dasoong15)
-[![LinkedIn](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)]([https://linkedin.com/](https://www.artstation.com/ageia))
+[![LinkedIn](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)](https://www.artstation.com/ageia)
 [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
 
