@@ -1,5 +1,5 @@
 
-<h2 align="center"> Tech Stack
+<h2 align="center"> 게임 테크니컬 아티스트
 
 <h2 align="center"> 
 
