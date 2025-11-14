@@ -16,3 +16,8 @@
 ### 🎮 Game Engines
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+---
+
+### 현재 일하는 곳
+[![NetmarbleF&C](https://img.shields.io/badge/NetmarbleF&C-ffe702?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/28/Netmarble_Logo.svg&logoColor=white)](https://company.netmarble.com/en/studio/list/fnc)
