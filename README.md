@@ -19,7 +19,7 @@
 
 ---
 
-### 🎨 Available Tools
+### 🎨 Available DCC Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Spine](https://img.shields.io/badge/Spine-000000?style=for-the-badge&logo=esoteric-software&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
