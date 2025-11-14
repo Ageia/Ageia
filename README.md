@@ -15,8 +15,3 @@
 [![LinkedIn](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)]([https://linkedin.com/](https://www.artstation.com/ageia))
 [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
 
----
-
-- 게임 및 게임 개발 좋아합니다!
-- C#, C++ 기반으로 다양한 프로젝트를 만들어보고 있습니다.
-- 새로운 기술 실험을 즐기며 성장하고 있습니다.
