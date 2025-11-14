@@ -1,4 +1,4 @@
-## 게임 테크니컬 아티스트 👋
+## 게임 테크니컬 아티스트
 
 ### 🖥️ Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
