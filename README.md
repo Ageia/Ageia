@@ -5,6 +5,8 @@
 [![artstation](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)](https://www.artstation.com/ageia)
 [![Blog](https://img.shields.io/badge/Blog-ff4a2a?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/dasoong15)
 
+---
+
 ### 🖥️ Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
