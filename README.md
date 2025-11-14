@@ -11,6 +11,7 @@
   
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-d3ba17?style=for-the-badge&logo=hlsl&logoColor=white)
 
 <h2 align="center"> 
 
