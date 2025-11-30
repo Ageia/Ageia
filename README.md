@@ -1,6 +1,19 @@
 
 <h2 align="center"> 게임 테크니컬 아티스트
 
+### 소셜 미디어 및 플랫폼 (Social Media and Platforms)
+<p>
+<!-- 안쓰는거 주석처리
+  <img alt="youtube" src="https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white" />
+```<img alt="artstation" src="https://img.shields.io/badge/-ArtStation-158ae4?style=flat-square&logo=ArtStation&logoColor=white" />
+```<img alt="blog" src="https://img.shields.io/badge/-Blog-ff4a2a?style=flat-square&logo=Blog&logoColor=white" />
+-->
+
+[![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
+[![artstation](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)](https://www.artstation.com/ageia)
+[![Blog](https://img.shields.io/badge/Blog-ff4a2a?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/dasoong15)
+</p>
+
 ### 사용 언어 (Programming Languages)
 <p>
 <img alt="c#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -23,17 +36,4 @@
 <img alt="zbrush" src="https://img.shields.io/badge/-ZBrush-FF6319?style=flat-square&logo=pixologic&logoColor=white" />
 <img alt="substance painter" src="https://img.shields.io/badge/-Substance%20Painter-FF4500?style=flat-square&logo=substance&logoColor=white" />
 <img alt="blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>
-
-### 소셜 미디어 및 플랫폼 (Social Media and Platforms)
-<p>
-<!-- 안쓰는거 주석처리
-  <img alt="youtube" src="https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white" />
-```<img alt="artstation" src="https://img.shields.io/badge/-ArtStation-158ae4?style=flat-square&logo=ArtStation&logoColor=white" />
-```<img alt="blog" src="https://img.shields.io/badge/-Blog-ff4a2a?style=flat-square&logo=Blog&logoColor=white" />
--->
-
-[![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinholee5872)
-[![artstation](https://img.shields.io/badge/ArtStation-158ae4?style=flat&logo=ArtStation&logoColor=white)](https://www.artstation.com/ageia)
-[![Blog](https://img.shields.io/badge/Blog-ff4a2a?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/dasoong15)
 </p>
